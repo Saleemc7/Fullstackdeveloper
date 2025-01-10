@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 this is text filegit 
 this is file
-=======
-this is text file
->>>>>>> 6ec16357d54ad652e9628377f0b46077550df1b5
+this file from backend
+updated from backend branch
